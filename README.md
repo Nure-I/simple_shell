@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 simple_shell
 A simple C shell project
 Description
@@ -29,3 +30,7 @@ The command lines are simple, no semicolons, no pipes, no redirections, or any o
 The command lines are made only of one word.No arguement will be passed to the programs. 5.If an executable is not found the shell prints an error message and displayu the prompt again.
 Credits
 All codes written by Nuredin Ibrahim and Mattathias W.
+=======
+# simple_shell
+Alx group project
+>>>>>>> a479e20a398e362eedc5910e4170d72f250fb447
