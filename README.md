@@ -1,2 +1,1 @@
-# simple_shell
-Alx group project
+simple_shell
